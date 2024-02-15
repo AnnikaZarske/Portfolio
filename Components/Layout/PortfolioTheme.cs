@@ -13,13 +13,17 @@ namespace Portfolio.Components.Layout
         {
             Palette = new PaletteLight()
             {
-                Primary = "#F5DD89"
+                Primary = "#F5DD89",
+                Secondary = "#ADA0C9",
             },
             PaletteDark = new PaletteDark()
             {
                 //Primary = Colors.Blue.Lighten1
             },
-
+            Typography = new Typography()
+            {
+                
+            },
             LayoutProperties = new LayoutProperties()
             {
                 //DrawerWidthLeft = "260px",
